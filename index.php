@@ -54,7 +54,7 @@
 	      </div>
             </td>
          </tr>
-         <p>
+         <tr><td>
            <a href="http://validator.w3.org/check?uri=http://p1.twclak.biz;ss=1;st=1;outline=1;No200=1;verbose=1">
                <img style="border:0;width:88px;height:31px"
                     src="images/w3c_html5.png"
@@ -65,7 +65,7 @@
                     src="http://jigsaw.w3.org/css-validator/images/vcss"
                     alt="Valid CSS!" />
            </a>
-         </p>
+         </td></tr>
       </table>
    </body>
 </html>
