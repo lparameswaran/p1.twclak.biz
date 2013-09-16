@@ -12,6 +12,7 @@
       <script type="text/javascript" src="jquery.easing.compatibility.js"></script>
       <script type="text/javascript">
       $(document).ready(function() {
+          $('div#slideshow img').css({'width' : '640px' , 'height' : '640px'});
           $('.slideshow').cycle({
               fx:     'shuffle',      // shuffle effect -- like a card deck
               easing: 'easeOutBack',  
@@ -22,17 +23,17 @@
    </head>
    <body>
 	<div class="slideshow">
-		<img src="images/self.jpg" width="200" height="200" />
-		<img src="images/selfAndWife.jpg" width="200" height="200" />
-		<img src="images/wifePullingEars.jpg" width="200" height="200" />
-		<img src="images/selfAndKids.jpg" width="200" height="200" />
-		<img src="images/kids.jpg" width="200" height="200" />
-		<img src="images/kidsWithADog.jpg" width="200" height="200" />
-		<img src="images/posing.jpg" width="200" height="200" />
-		<img src="images/youngerOne.jpg" width="200" height="200" />
-		<img src="images/familyAtFireplace.jpg" width="200" height="200" />
-		<img src="images/familyParty.jpg" width="200" height="200" />
-		<img src="images/familyFormal.jpg" width="200" height="200" />
+		<img src="images/self.jpg" />
+		<img src="images/selfAndWife.jpg" />
+		<img src="images/wifePullingEars.jpg" />
+		<img src="images/selfAndKids.jpg" />
+		<img src="images/kids.jpg" />
+		<img src="images/kidsWithADog.jpg" />
+		<img src="images/posing.jpg" />
+		<img src="images/youngerOne.jpg" />
+		<img src="images/familyAtFireplace.jpg" />
+		<img src="images/familyParty.jpg" />
+		<img src="images/familyFormal.jpg" />
 	</div>
    </body>
 </html>
