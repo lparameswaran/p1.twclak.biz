@@ -26,13 +26,27 @@
    </head>
    <body>
       <table style="text-align:center">
+         <tr><td>
+           <a href="http://validator.w3.org/check?uri=http://p1.twclak.biz;ss=1;st=1;outline=1;No200=1;verbose=1">
+               <img style="border:0;width:88px;height:31px"
+                    src="images/w3c_html5.png"
+                    alt="Valid HTML5!" />
+           </a>
+           <a href="http://jigsaw.w3.org/css-validator/check/referer">
+               <img style="border:0;width:88px;height:31px"
+                    src="http://jigsaw.w3.org/css-validator/images/vcss"
+                    alt="Valid CSS!" />
+           </a>
+         </td></tr>
          <tr style="text-align:left">
             <td>
                <table border="1">
                   <tr><td style='font-family:"Times New Roman", Times, serif'>Name</td><td style='font-style:italic'>Lakshman Parameswaran</td></tr>
                   <tr><td style='font-family:"Times New Roman", Times, serif'>Experience</td><td style='font-style:italic'>21+ years in the Software Industry, mostly Server Side.</td></tr>
+                  <tr><td style='font-family:"Times New Roman", Times, serif'>Computer Languages</td><td style='font-style:italic'>C, C++, Java, perl, python, *nix shells, a dabble of javascript.</td></tr>
+                  <tr><td style='font-family:"Times New Roman", Times, serif'>Human Languages</td><td style='font-style:italic'>English, Hindi, Kannada, Tamil, a dabble of Gujarati.</td></tr>
                   <tr><td style='font-family:"Times New Roman", Times, serif'>Editor of Choice</td><td style='font-style:italic'>Eclipse, but most of the time - the plain old vi</td></tr>
-                  <tr><td style='font-family:"Times New Roman", Times, serif'>Hobbies</td><td style='font-style:italic'>Robotics; Sports like Soccer, Football, Basketball, Baseball, Ping-Pong etc</td></tr>
+                  <tr><td style='font-family:"Times New Roman", Times, serif'>Hobbies</td><td style='font-style:italic'>Robotics, Poker; Sports like Soccer, Football, Basketball, Baseball, Ping-Pong etc</td></tr>
                </table>
             </td>
         </tr>
@@ -54,18 +68,6 @@
 	      </div>
             </td>
          </tr>
-         <tr><td>
-           <a href="http://validator.w3.org/check?uri=http://p1.twclak.biz;ss=1;st=1;outline=1;No200=1;verbose=1">
-               <img style="border:0;width:88px;height:31px"
-                    src="images/w3c_html5.png"
-                    alt="Valid HTML5!" />
-           </a>
-           <a href="http://jigsaw.w3.org/css-validator/check/referer">
-               <img style="border:0;width:88px;height:31px"
-                    src="http://jigsaw.w3.org/css-validator/images/vcss"
-                    alt="Valid CSS!" />
-           </a>
-         </td></tr>
       </table>
    </body>
 </html>
